@@ -1,4 +1,6 @@
 # 007
+
+打开branch，选择master，下载master分支下的文件007-master.zip，然后解压就行了
 安装依赖： 在命令行中进入项目文件夹并运行以下命令安装 Flask：
 bash
 复制代码
